@@ -1,0 +1,434 @@
+---
+output:
+  pdf_document:
+    latex_engine: pdflatex
+---
+
+```{r setup, include=FALSE, fig.align='center'}
+knitr::opts_chunk$set(echo = FALSE)
+library(bookdown)
+```
+
+
+# Food and Nutrition
+
+    
+\vspace{1cm}
+
+Judy you have always been keen on the art and craft of cookery and the enjoyment of meals together. Thanks to you, many of us are confident in the kitchen, whether it is taking on an ambitious creation or knocking something together from whatever is in the back of the cupboards. 
+
+\vspace{1cm}
+
+```{r, evelyn, fig.align='center'}
+knitr::include_graphics("./images/judy_evelyn.jpg")
+```
+
+
+\newpage
+
+# From Maria and Gertrude:
+
+## Fried Fresh Fish (Tilapia) (Nsomba yo kazinga)
+\vspace{1cm}
+```{r, nsomba, fig.align='center'}
+knitr::include_graphics("./images/tilapia.jpg")
+```
+ \vspace{1cm}
+
+Ingredients:
+
+Tilapia
+
+Salt
+
+Lemon slices for decorating (absolutely optional)
+
+¼ cup of Cooking oil
+
+Preparation:
+
+Clean the fish by removing scales and innards. You can cut the heads off if so desired. Personally, the heads are the best part of the fish. If you decide to keep the heads, make sure to clean the inside and remove the gills.
+
+Wash the fish and pat dry.
+
+Make slits about the body and rub salt into it. 
+
+Cooking Instructions:
+
+Heat a pan with oil on the stove top
+
+Put the fish in once the oil is hot. Reduce the heat to medium.
+
+Depending on the size of the fish, cook it for 5/6 minutes on each side.
+
+You'll know it's ready when it's golden brown.
+
+You can serve this with some vegetables and nshima. Or, you can eat it as is with a beer for a snack. This is our favorite Lazy Friday dinner! (No beer for the kids though….)
+
+\newpage
+
+## Fresh Turnip Greens
+\vspace{1cm}
+
+```{r greens, fig.align='center'}
+knitr::include_graphics('./images/greens.jpg')
+```
+
+
+Most meals are not complete with a vegetable accompaniment. So here goes:
+
+Ingredients:
+
+2 bunches of turnip greens (You can use any leafy greens such as collard greens, mustard greens, Swiss chard or spinach).
+
+Half an onion
+
+1 tomato
+
+Salt to season
+
+2 - 3 Tablespoons of Cooking oil
+
+Preparation:
+
+Wash each vegetable leaves thoroughly.
+
+Make a bundle and cut the vegetable finely.
+
+Wash the onion and tomato and chop them into cubes.
+
+Cooking Instructions:
+
+Put a pan on the stove top on medium heat. Put some oil (3 table spoons) in it to heat.
+
+Once the oil is hot, lightly fry the onions. Then add the greens and tomatoes. Turn them and add about 2 pinches of salt. (Add one first and taste to see if you need a second pinch)
+
+Add a little water (1/4 cup) and simmer. When the water finishes, slightly fry it and it should be ready. Cooking time varies according to the vegetable choice. This works best for turnip greens.
+
+\newpage
+
+## Bean Stew (Nyemba)
+\vspace{1cm}
+```{r beans, fig.align='center'}
+knitr::include_graphics('./images/beans.jpg')
+```
+
+ 
+
+2 medium cans of pinto beans (This is the cheat version. Normally, it’s cooked from scratch: using dried beans)
+
+1 Tomato
+
+½ Onion
+
+1 pepper 
+
+Paprika
+
+2 or 3 Tablespoons of oil
+
+Salt
+
+Preparation:
+
+Wash the onion, pepper and tomato. 
+
+Dice them.
+
+Cooking Instructions:
+
+Heat the pot or pan on medium heat and add the oil till it’s heated. 
+
+Lightly fry the tomatoes, onion and pepper.
+
+Add a few shakes of paprika and salt.
+
+Add the beans. 
+
+Simmer for about 10 minutes or when the liquid has reduced.
+
+Add a pinch of salt and taste for your liking. Ready for serving. It tastes even better on the second day.
+
+\newpage
+
+## Braai Chicken (Nkuku yo ocha)
+
+\vspace{1cm}
+
+```{r nkuku, fig.align='center'}
+knitr::include_graphics('./images/nkuku.jpg')
+```
+
+
+
+Ingredients:
+
+Chicken pieces (boned/deboned, skin/skinless is really as you prefer)
+
+Garlic
+
+Lemon Pepper
+
+Chicken spice
+
+Salt for seasoning
+
+Preparation:
+
+Clean the chicken pieces. Skinless is optional.
+
+Pat the pieces dry with paper towel.
+
+Season with salt, lemon pepper and chicken spice.
+
+Add ¼ cup of oil and leave to marinate for an hour or more.
+
+
+Cooking Instructions:
+
+Prepare a mbaula if you have one OR a BBQ stand will do OR grill.
+
+Put it on a rack on the hot mbaula and cook each side until it’s a nice brownish color. Keep turning it and please don’t burn it. Serve as an accompaniment with your meal. Enjoy!
+
+\newpage
+
+## Kapenta
+
+ 
+Ingredients:
+
+2 Handfuls of kapenta OR sardines
+
+Green pepper (optional)
+
+1 medium size onion
+
+1 large tomato
+
+4 Tablespoons Oil
+
+Salt
+
+¼ cup of water
+
+Preparation:
+
+Sort the kapenta carefully and remove any debris 
+
+Wash the kapenta several times with warm water until it’s clean.
+
+Dice the onion, tomato and green pepper
+
+Cooking Instructions:
+
+Heat the pan on medium heat and add cooking oil to it. Lightly fry the Kapenta until golden brown.
+
+Add a pinch or two of salt (to your taste), tomatoes, onion and pepper. Lightly fry the ingredients. Then add ¼ cup of water.
+
+Simmer for about 10 – 15 minutes or when the liquid has reduced. Taste for tenderness. Serve.
+
+\newpage
+
+
+# Vitumbuwa (Fritters)
+
+\vspace{1cm}
+
+```{r tumbuwa, fig.align='center'}
+knitr::include_graphics('./images/tumbua.jpg')
+```
+
+
+Ingredients:
+
+2 cups:  All Purpose flour
+
+2 Teaspoons of baking soda
+
+¼ Cup sugar
+
+4 Eggs
+
+1 cup milk
+
+Pinch of salt
+
+1 cup of oil
+
+Preparation:
+
+Sift the flour into a mixing bowl.
+
+Add sugar and pinch of salt.
+
+Whisk the milk and eggs and pour into the bowl with dry ingredients. Mix together into a thick batter.
+
+Taste to see if there is enough sugar and salt to your liking. They’re usually not too sweet.
+
+Cooking Instructions:
+
+Heat the oil in a pan on medium heat.
+
+Scoop tablespoon fills of batter. Place them separately into the pan and let it fry for 3 minutes and turn over and let it fry again for 3 minutes till a golden-brown color. If it’s cooking too quickly, reduce the heat and maybe the size of the spoon full that you put in the pan.  Remove one to check if it’s cooked in the center. Remove the fritters from the pan and put them on a plate with paper towel for the excess fat to drain. Add more spoon fills to the pan. Repeat till the batter is finished. Serve as a snack or have them with a cup of tea.
+
+\newpage
+
+#Nsima (Nshima)
+
+
+Ingredients:
+
+3 cups of maize meal flour or (mealie meal) 
+
+3 cups of water
+
+Preparation:
+
+Put the water in a pot and bring to boil on the stove top.
+
+Take 1 cup of mealie meal and make a runny paste with 1 ½ cups of water. Pour this mixture into the pot and stir quickly (to avoid forming lumps) with a cooking stick.
+
+Cover the pot and leave to boil for about 8 - 10 minutes.
+
+Slowly add in the remaining mealie meal while stirring all the while till it becomes a thick dough. Leave on the stove to cook for an extra 5 minutes, stir and leave for another 5 - 8 minutes. Remove from the stove and serve in a thermos plate to keep warm or flat plate if it's eaten immediately.
+
+\newpage
+
+## Goat Stew:
+
+Ingredients:
+
+Goat (or you can use Lamb) meat
+
+1 large Onion
+
+2 tomatoes
+
+1 pepper 
+
+Paprika
+
+Salt 
+
+1 Teaspoon Cumin or coriander
+
+2 or 3 Tablespoons of oil
+
+
+Preparation:
+
+Wash the onion, pepper and tomato. 
+
+Dice them.
+
+Grind or crush the cumin
+
+Wash the goat pieces and remove excess fat. Pat dry with a paper towel.
+
+Cooking Instructions:
+
+Heat the pot or pan on medium heat and add the oil till it's heated. 
+
+Lightly fry the tomatoes, onion and pepper.
+
+Add a few shakes of paprika, 2 pinches of salt and cumin.
+
+Add the goat meat and stir.
+
+Simmer for about 10 minutes or when the liquid has reduced then turn the goat meat over. Let it simmer and repeat.
+
+Add 3 cups of water and cook on low heat or you can use a slow cooker. Let it simmer for 1 ½  - 2 hours till the gravy has reduced and is not too runny. Also, check to make sure that the goat is tender.
+
+Ready for serving. 
+
+
+\newpage
+
+# A recipe from Candida!
+
+## PASTA E CECI
+
+\vspace{1cm}
+```{r ceci, fig.align='center'}
+knitr::include_graphics('./images/ceci.jpg')
+```
+\vspace{1cm}
+serves 6
+4 cloves garlic
+1  small onion
+2 small carrots
+2 sticks celery
+tomato puree or 6 plum tomatoes
+use  300gr dry chickpeas soaked overnight and then boiled  OR
+two tins of chickpeas drained and washed. 
+small pasta or broken up spaghetti
+2 tins chickpeas drained and washed
+2 sprigs rosemary stock or stockcube of your choice
+1/2 chilli optional
+pepper/ salt( not a lot if using cubes)
+olive oil
+1) Make a soffritto with olive oil, the onion/carrots/celery chopped veryvery small add garlic, sautee, do not burn.....
+
+2) add Tomatoes ( chopped) or puree, little water, rosemary sprigs, stock or cube and water add drained  chick peas from tin OR  if using  the dry ones add the soffritto etc to the pan with the cooked chickpeas, boil together for a while.
+
+3) add the pasta , boil until cooked
+
+A lovely thick soup for any season......
+I have been cooking it for years.....
+
+Hope it's all clear.....
+
+Hope to see you soon in Italy Judy.....or che toi in Antequera!
+Cannot believe we met over 40 years ago! 
+Buon appetito
+Candida
+
+\newpage
+
+```{r journey_bread, fig.align='center'}
+knitr::include_graphics('./images/journey_bread.pdf')
+
+knitr::include_graphics('./images/farfalle.pdf')
+
+knitr::include_graphics('./images/puttanesca.pdf')
+```
+
+```{r emere_yona, fig.align='centre'}
+knitr::include_graphics('./images/emere_yona.jpg')
+```
+"Emere Yona" is an expression in Uganda to suggest 'a bit of everything'.
+It's not very common in tourist areas and only a few restaurants will offer this. However, it's very common in local or traditional restaurants.
+
+The variety of staple foods include a mix of all or many of the following: Posho (nshima), rice, sweet potato, pumpkin, yam, chapati, cassava, matooke and so on.
+
+These are eaten with sauces (relishes) including binyebwa, beans, greens, nyamas (meats) and fish.
+
+The food (carbohydrates) would go with a sauce, beans, some pasted fish, Luwombo, chicken or meats of some sort.
+2 mins ago
+Peanut sauce is called binyebwa, which is raw groundnuts ground into a paste and cooked as a sauce to add to fish, chicken or meat. This makes the pink colouring to the meal. This is a very special quality to Ugandan foods. 
+
+The greens include nakati, sukuma wiki, cabbage, entula, katunkuma (small), eggplant, green pepper and so on.
+
+Matooke (Musa acuminata) is a green banana used as a staple in cooking.
+
+Luwombo is a stew steamed in banana leaves; it has been considered to be a very special dish that was/is served only to very important guests in Ugandan culture.
+
+Nakati - Ethiopian Eggplant (Solanum aethiopicum). The leaves are a very popular green and delicious. 
+Sukuma wiki (collard greens) is an East African dish cooked with onions and spices.
+Entula (Solanum macrocarpon) is an African baby egg plant
+Bitter Berries (Katunkuma) are also used as a green
+
+\newpage
+
+```{r avocado, fig.align='centre'}
+knitr::include_graphics('./images/avocado.pdf')
+```
+
+```{r salmon, fig.align='centre'}
+knitr::include_graphics('./images/salmon_wellington.pdf')
+```
+
+```{r lentejas1, fig.align='centre'}
+knitr::include_graphics('./images/lentejas.jpg')
+knitr::include_graphics('./images/lentejas_method.jpg')
+```
