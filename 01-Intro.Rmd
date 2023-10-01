@@ -28,6 +28,12 @@ knitr::include_graphics("./images/judy_evelyn.jpg")
 
 # From Maria and Gertrude:
 
+```{r maria, out.width="48%",fig.align=c("centre")}
+knitr::include_graphics(c("./images/joseph_maria.jpg","./images/gertrude.jpg"))
+```
+
+
+\newpage
 ## Fried Fresh Fish (Tilapia) (Nsomba yo kazinga)
 \vspace{1cm}
 ```{r, nsomba, fig.align='center'}
@@ -346,10 +352,19 @@ Ready for serving.
 
 # A recipe from Candida!
 
+```{r candida, out.width="50%",fig.align=c("centre")}
+knitr::include_graphics(c("images/candida.jpg",
+                          "images/rob.jpg"))
+```
+
+```{r candida2, out.width="50%",fig.align=c("centre")}
+knitr::include_graphics("images/rob_everyone.jpg")
+```
+
 ## PASTA E CECI
 
 \vspace{1cm}
-```{r ceci, fig.align='center'}
+```{r ceci, out.width="30%", fig.align='center'}
 knitr::include_graphics('./images/ceci.jpg')
 ```
 \vspace{1cm}
@@ -385,6 +400,12 @@ Candida
 
 \newpage
 
+# From Chela Claire and Stanley
+
+```{r chela1, out.width="50%", fig.align='center'}
+knitr::include_graphics(c('./images/stanley_cake.jpg','./images/judy_claiire.jpg','images/judy_chela.jpg'))
+```
+
 ```{r journey_bread, fig.align='center'}
 knitr::include_graphics('./images/journey_bread.pdf')
 
@@ -419,16 +440,100 @@ Entula (Solanum macrocarpon) is an African baby egg plant
 Bitter Berries (Katunkuma) are also used as a green
 
 \newpage
+# From Pilar
+```{r pilar, fig.align='centre'}
+knitr::include_graphics('./images/pilar.jpg')
+```
 
 ```{r avocado, fig.align='centre'}
 knitr::include_graphics('./images/avocado.pdf')
 ```
 
+# From Isabel
+
+
+```{r isabel, fig.align='centre'}
+knitr::include_graphics('./images/isabel.jpg')
+```
+
 ```{r salmon, fig.align='centre'}
 knitr::include_graphics('./images/salmon_wellington.pdf')
 ```
-
+# From Simon
 ```{r lentejas1, fig.align='centre'}
 knitr::include_graphics('./images/lentejas.jpg')
 knitr::include_graphics('./images/lentejas_method.jpg')
 ```
+
+# From Clare
+
+```{r hoptons, out.width="48%", fig.align='centre'}
+knitr::include_graphics(c('./images/claire_fam.jpeg','./images/martha_simming_goggles.jpeg','images/isa_alice.jpeg','images/clare_n_julia.jpeg'))
+
+```
+
+```{r sauce,out.width="60%", fig.align='centre'}
+knitr::include_graphics(c('./images/brown_rice.jpeg','./images/soy_sauce.jpeg'))
+```
+
+\newpage
+
+# From Jenni
+
+```{r jenni, fig.align='centre'}
+knitr::include_graphics('./images/jenni.jpg')
+```
+
+I may include my lasagne recipe which has a story attached.  I was very proudly making this for your gran and granddad the first time they visited us just after we got married.  I was so well prepared I had it made and in the freezer.  Forgot to bring it out on time so, at best, the lasagne was served lukewarm!  Yet being kindly parents-in-law, they said it was lovely! Not my best effort!! 
+
+# from Katy-Louise
+```{r lentils, fig.align='centre'}
+knitr::include_graphics('./images/Lentil_barley_stew1.jpeg')
+```
+\newpage
+```{r lentils2, fig.align='centre'}
+knitr::include_graphics('./images/lentil_barley_stew2.jpeg')
+```
+
+
+# From Susan and Alvar
+
+```{r alvars, fig.align='centre'}
+knitr::include_graphics('./images/alvars.jpg')
+```
+
+```{r alvars2, fig.align='centre'}
+knitr::include_graphics('./images/welsh_cake.pdf')
+```
+
+```{r alvars3, fig.align='centre'}
+knitr::include_graphics('./images/alvar_curry.jpeg')
+```
+
+Recipe for Alvars chicken curry 
+Super simple the following ingredients are all one teaspoon 
+Cumin
+Paprika
+Cinnamon 
+Cardamom
+Cayenne pepper
+Chilli flakes
+Ground ginger
+Tandoori masala
+Garam masala
+Jaggery powder
+Tamarind 
+Salt
+2 teaspoons mild curry powder 
+1/2 teaspoons turmeric 
+Large finely chopped onion
+3 cloves garlic 
+600g to 1kg chicken 
+About 2cm fresh ginger 
+Fresh or tinned tomatoes 
+And chopped vegetables of your choice. 
+Method:-
+Mix all spices and salt well and mix well with uncooked chicken, if possible leave 6 to 12 hours 
+Fry onions well not allowing to burn after ten minutes add ginger and garlic. Fry for a further 5 minutes. 
+Add chicken shortly followed by vegetables cook for a further 10 minutes with lid on, do not add water liquid will come from vegetables.
+Finally added tomatoes and purre is recommended and leave to simmer gently for 20 minutes
