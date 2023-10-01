@@ -511,28 +511,28 @@ knitr::include_graphics('./images/alvar_curry.jpeg')
 ```
 
 Recipe for Alvars chicken curry 
-Super simple the following ingredients are all one teaspoon 
-Cumin
-Paprika
-Cinnamon 
-Cardamom
-Cayenne pepper
-Chilli flakes
-Ground ginger
-Tandoori masala
-Garam masala
-Jaggery powder
-Tamarind 
-Salt
-2 teaspoons mild curry powder 
-1/2 teaspoons turmeric 
-Large finely chopped onion
-3 cloves garlic 
-600g to 1kg chicken 
-About 2cm fresh ginger 
-Fresh or tinned tomatoes 
-And chopped vegetables of your choice. 
-Method:-
+Super simple the following ingredients are all one teaspoon. 
+Cumin. 
+Paprika. 
+Cinnamon.     
+Cardamom. 
+Cayenne pepper. 
+Chilli flakes. 
+Ground ginger. 
+Tandoori masala. 
+Garam masala. 
+Jaggery powder. 
+Tamarind   
+Salt. 
+2 teaspoons mild curry powder.    
+1/2 teaspoons turmeric.    
+Large finely chopped onion. 
+3 cloves garlic.    
+600g to 1kg chicken.   
+About 2cm fresh ginger.  
+Fresh or tinned tomatoes.  
+And chopped vegetables of your choice.   
+Method:-  
 Mix all spices and salt well and mix well with uncooked chicken, if possible leave 6 to 12 hours 
 Fry onions well not allowing to burn after ten minutes add ginger and garlic. Fry for a further 5 minutes. 
 Add chicken shortly followed by vegetables cook for a further 10 minutes with lid on, do not add water liquid will come from vegetables.
