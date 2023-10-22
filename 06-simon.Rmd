@@ -1,0 +1,30 @@
+# From the James-Gonzalez family
+```{r pilar_isabel, out.width = "50%"}
+knitr::include_graphics(c('./images/pilar.jpg',
+                           './images/isabel.jpg'))
+```
+\newpage
+
+## Pilar's Avocado three ways
+```{r avocado}
+knitr::include_graphics('./images/avocado.pdf')
+```
+
+## Isabel's salmon wellington
+```{r salmon}
+knitr::include_graphics('./images/salmon_wellington.pdf')
+```
+
+## Simon's Lentejas
+```{r lentejas1}
+knitr::include_graphics('./images/lentejas.jpg')
+```
+\newpage
+```{r lentejas2}
+knitr::include_graphics('./images/lentejas_method.jpg')
+```
+
+## Mimi's Huevos a la flamenca
+```{r flamenca}
+knitr::include_graphics('./images/mimi.pdf')
+```

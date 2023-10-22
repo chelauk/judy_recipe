@@ -1,0 +1,5 @@
+book_filename: "Judy's Recipes"
+delete_merged_file: true
+rmd_files: [01-introduction.Rmd, 02-maria_gertrude.Rmd, 03-candida.Rmd,  04-chela.Rmd , 05-nick.Rmd, 
+            06-simon.Rmd, 07-clare.Rmd]
+output_dir: "book-output"

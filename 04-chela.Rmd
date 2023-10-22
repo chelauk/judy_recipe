@@ -1,0 +1,19 @@
+# From Chela, Claire and Stanley
+
+```{r chela1, out.width="50%"}
+knitr::include_graphics(c('./images/stanley_cake.jpg','./images/judy_claiire.jpg','images/judy_chela.jpg'))
+```
+\newpage
+
+## Journey Bread
+```{r journey_bread, fig.align='center'}
+knitr::include_graphics('./images/journey_bread.pdf')
+```
+## Farfalle con salmone e limone
+```{r farfalle, fig.align='center'}
+knitr::include_graphics('./images/farfalle.pdf')
+```
+## Puttanesca
+```{r puttanesca, fig.align='center'}
+knitr::include_graphics('./images/puttanesca.pdf')
+```

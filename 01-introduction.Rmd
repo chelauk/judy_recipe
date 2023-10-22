@@ -1,0 +1,24 @@
+---
+title: "Recipes for Judy"
+output: 
+  bookdown::pdf_document2:
+    latex_engine: xelatex
+    number_sections: no 
+documentclass: book
+---
+
+# JJ's Food Stories.
+
+```{r setup, include=FALSE, fig.align='center'}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Judy you have always been keen on the art and craft of cookery and the enjoyment of meals together. Thanks to you, many of us are confident in the kitchen, whether it is taking on an ambitious creation or knocking something together from whatever is in the back of the cupboards.
+
+
+```{r, evelyn, fig.align='center'}
+knitr::include_graphics("./images/judy_evelyn.jpg")
+```
+
+
+
